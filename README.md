@@ -1,2 +1,5 @@
-# yelp-reviews
-Backup of my Yelp reviews
+### yelp-reviews
+
+Reviews scraped using [yell][1]. 
+
+[1]: https://github.com/tmcw/yell
